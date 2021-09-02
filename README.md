@@ -1,0 +1,2 @@
+# rookie-bomb
+trialrookie
